@@ -1,0 +1,20 @@
+Nombre: Luis Menendez Ramos
+
+# Noventa Grados - Juego en Modo Texto
+
+**Noventa Grados** es un juego en modo texto desarrollado en Java que implementa mecánicas de jugadas y deshacer, 
+utilizando estructuras de programación orientada a objetos.
+
+## Cómo ejecutar el juego
+
+### Requisitos previos
+- **Java 11** o superior debe estar instalado en tu sistema.
+
+### Ejecución
+En linux
+Para ejecutar el juego en modo grafico
+Otorgale los permisos necesarios para ello
+	1.- escribiremos en la consola chmod +x ejecutar_gui.sh
+	2.- Ejecuta ./ejecutar_gui.sh
+	3.- Disfruta de tu partida
+
