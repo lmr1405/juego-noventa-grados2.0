@@ -39,4 +39,4 @@ Si deseas jugarlo o como parte de un proyecto más grande:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/noventa-grados.git
+   git clone https://github.com/lmr1405/juego-noventa-grados2.0.git
