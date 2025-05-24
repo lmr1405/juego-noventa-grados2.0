@@ -1,10 +1,11 @@
 # Noventa Grados
+**Juego realizado para un trabajo de clase de la asignatura de Metodología de la programación de segundo año de Ingeniería Informática.**
+
 ![Pantalla de Inicio](https://github.com/lmr1405/juego-noventa-grados2.0/blob/main/images/inicio.png?raw=true)
 
-Juego realizado para un trabajo de clase de la asignatura de Metodología de la programación de segundo año de Ingeniería Informática.
 
-      **Noventa Grados** 
-Es un juego clásico para dos jugadores que combina estrategia y movimientos tácticos en un tablero de 7x7. El objetivo es lograr vencer a tu oponente mediante dos posibles condiciones de victoria: echar a la reina rival fuera del tablero o colocar tu reina en el centro del tablero.
+
+**Noventa Grados** es un juego clásico para dos jugadores que combina estrategia y movimientos tácticos en un tablero de 7x7. El objetivo es lograr vencer a tu oponente mediante dos posibles condiciones de victoria: echar a la reina rival fuera del tablero o colocar tu reina en el centro del tablero.
 
 ## Descripción del Juego
 
@@ -34,12 +35,4 @@ En **Noventa Grados**, cada jugador controla piezas blancas o negras y toma turn
 1. Elige un jugador para controlar las piezas blancas y otro para controlar las negras.
 2. Coloca las piezas en el tablero inicial (7x7).
 3. Toma turnos para mover las piezas, respetando las reglas de movimiento y buscando cumplir una de las condiciones de victoria.
-4. ¡Que gane el mejor estratega!
-
-## Instalación y Ejecución
-
-Si deseas jugarlo o como parte de un proyecto más grande:
-
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/lmr1405/juego-noventa-grados2.0.git
+4. Que gane el mejor mejor
